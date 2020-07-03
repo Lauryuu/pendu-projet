@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.vie{
+  margin-top: -200px;
+}
+.word{
+  margin-top: 250px;
+  margin-bottom: 200px;
+  font-size: 80px;
+}
+.letter{
+  background-color: darkturquoise;
+  font-size: larger;
+}
